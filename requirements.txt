@@ -1,0 +1,6 @@
+flask==1.1.1
+flask-pymongo==2.3.0
+gunicorn==19.9.0
+tushare==1.2.48
+lxml==4.4.2
+pandas==0.25.3
